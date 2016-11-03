@@ -1,2 +1,4 @@
 # hello-world
-My hello world respository
+
+Greetings!
+Steven here, Front End Developer, reader, and music lover.
